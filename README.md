@@ -25,6 +25,38 @@
 
 ---
 
+### 🚀 Current Activities
+
+- 🔭 Working on: <!-- ganti dengan nama proyek yang sedang dikerjakan -->
+- 🤝 Collaborating on: <!-- ganti dengan nama proyek/tim kolaborasi -->
+- 🌱 Learning: <!-- ganti dengan skill/teknologi yang sedang dipelajari -->
+- 💬 Ask me about: PHP, JavaScript, Web Development
+
+---
+
+### 💼 Portfolios
+
+| Project | Description | Link |
+|---|---|---|
+| Portfolio Website | <!-- deskripsi singkat --> | [Visit](#) |
+| <!-- Nama Project --> | <!-- deskripsi singkat --> | [Visit](#) |
+
+---
+
+### 📚 Books Author
+
+- 📖 **<!-- Judul Buku 1 -->** — <!-- deskripsi singkat -->
+- 📖 **<!-- Judul Buku 2 -->** — <!-- deskripsi singkat -->
+
+---
+
+### 🎤 Speaker
+
+- 🎙️ **<!-- Nama Event/Webinar -->** — <!-- topik yang dibawakan, tahun -->
+- 🎙️ **<!-- Nama Event/Webinar -->** — <!-- topik yang dibawakan, tahun -->
+
+---
+
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
