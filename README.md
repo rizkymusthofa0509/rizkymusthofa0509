@@ -17,6 +17,10 @@
 ### 🧑‍💻 About Me
 
 - 💼 Software Engineer at **Muri Digital**
+- 🚀 Founder of **Muri Digital Grup Internasional**
+- 🩺 Founder of **MediCore.id** — Platform Kesehatan
+- 🎓 Master's Degree in Sistem Informasi @ **Telkom University** (ongoing)
+- 🎓 Studied at **Universitas Nasional (UNAS)**
 - 📍 Based in **Jakarta Selatan, Indonesia**
 - 🛠️ I like building small, useful tools — from web apps to utility scripts
 - 🌱 Currently sharpening my skills in web development & backend engineering
@@ -27,8 +31,9 @@
 
 ### 🚀 Current Activities
 
-- 🔭 Working on: <!-- ganti dengan nama proyek yang sedang dikerjakan -->
-- 🤝 Collaborating on: <!-- ganti dengan nama proyek/tim kolaborasi -->
+- 🔭 Working on: **Muri Digital Grup Internasional** & **MediCore.id**
+- 🎓 Pursuing Master's Degree in Sistem Informasi at **Telkom University**
+- ✍️ Writing technical tutorials for the **Muri Digital** blog on Medium
 - 🌱 Learning: <!-- ganti dengan skill/teknologi yang sedang dipelajari -->
 - 💬 Ask me about: PHP, JavaScript, Web Development
 
@@ -38,8 +43,9 @@
 
 | Project | Description | Link |
 |---|---|---|
-| Portfolio Website | <!-- deskripsi singkat --> | [Visit](#) |
-| <!-- Nama Project --> | <!-- deskripsi singkat --> | [Visit](#) |
+| Muri Digital Grup Internasional | <!-- deskripsi singkat perusahaan/produk --> | [Visit](#) |
+| MediCore.id | Platform Kesehatan | [Visit](#) |
+| Web Muri Digital Tutorial | Kumpulan source code pendamping tutorial teknis yang ditulis untuk Muri Digital | [Visit](https://gitlab.com/rizkymusthofa/web-muridigital-tutorial) |
 
 ---
 
@@ -47,6 +53,13 @@
 
 - 📖 **<!-- Judul Buku 1 -->** — <!-- deskripsi singkat -->
 - 📖 **<!-- Judul Buku 2 -->** — <!-- deskripsi singkat -->
+
+---
+
+### 📰 Publication
+
+- 📝 **[Bagaimana Set Cookie Menggunakan PHP (Native, Codeigniter, Laravel)](https://medium.com/@muridigital.blog/bagaimana-set-cookie-menggunakan-php-native-codeigniter-laravel-1e79969052bb)** — Muri Digital Blog, Medium, 2023
+- 📝 **<!-- Judul Artikel/Publikasi lain -->** — <!-- media/platform, tahun -->
 
 ---
 
